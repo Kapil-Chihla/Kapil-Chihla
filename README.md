@@ -1,5 +1,7 @@
 👋 Hi, I'm Kapil
+
 👨‍💻 Full-Stack Developer.
+
 📫 How to reach me: kapilchihla29@gmail.com
 
 
