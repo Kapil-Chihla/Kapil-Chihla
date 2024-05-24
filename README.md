@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I'm Kapil
+👨‍💻 Full-Stack Developer.
+📫 How to reach me: kapilchihla29@gmail.com
+
 
 <!--
 **Kapil-Chihla/Kapil-Chihla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
